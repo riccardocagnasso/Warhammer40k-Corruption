@@ -357,16 +357,6 @@ Class="FactionColors.FactionItemDef">
     <equippedAngleOffset>-65</equippedAngleOffset>
     <verbs>
       <li>
-        <verbClass>Verb_Shoot</verbClass>
-        <hasStandardCommand>true</hasStandardCommand>
-        <projectileDef>Bullet_LascannonRound</projectileDef>
-        <warmupTime>2.5</warmupTime>
-        <range>20</range>
-        <soundCast>ShotChargeRifle</soundCast>
-        <soundCastTail>GunTail_Heavy</soundCastTail>
-	   <muzzleFlashScale>9</muzzleFlashScale>
-      </li>
-      <li>
         <verbClass>Verb_MeleeAttack</verbClass>
         <hasStandardCommand>true</hasStandardCommand>
         <meleeDamageDef>Cut</meleeDamageDef>
